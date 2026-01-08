@@ -1,0 +1,21 @@
+1.Write a python program to find odd or even
+2.write a program to convert Celsius to Fahrenheit(vice versa)
+3.write a program to calculate area of a tringle
+4.write a program to find character is vowel of not
+5.write a program calculate percentage of students marks
+6. Write a Python program to calculate the income tax of a person based on the following tax slabs:
+| Annual Income (₹)   | Tax Rate |
+| ------------------- | -------- |
+| 25,000 – 50,000     | 5%       |
+| 50,001 – 1,00,000   | 10%      |
+| 1,00,001 – 2,00,000 | 15%      |
+| 2,00,001 – 3,00,000 | 20%      |
+| Above 3,00,000      | 25%      |
+ 
+The program should:
+
+Accept annual income from the user
+
+Calculate the tax amount based on the slab
+
+Display the tax to be paid
